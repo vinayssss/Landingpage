@@ -6,4 +6,4 @@ Click the "Edit Source" button above to make changes.
 
 | Dashboards | Descrpition |
 |------------|--------------|
-|[Dashboard1](https://gcpl2310.cloud.looker.com/dashboards/94) | Dashboard6series |
+|[Dashboard1](https://gcpl230.cloud.looker.com/dashboards/253?Status=pending) | Dashboard6series |
